@@ -20,7 +20,7 @@ function sayHiToGrandma(string){
   }else if
     (string.ToLowerCase===mixedCase){
     return "I can\'t hear you!"
-  }else{
+  }else if
     (string.toUpperCase===mixedCase){
       return "YES INDEED!"
     }

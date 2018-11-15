@@ -18,10 +18,10 @@ function sayHiToGrandma(string){
   if(string==="I love you, Grandma."){
     return "I love you, too."
   }else if
-    (string.ToLowerCase===mixedCase){
+    (string===ToLowerCase){
     return "I can\'t hear you!"
   }else if
-    (string.toUpperCase===mixedCase){
+    (string===toUpperCase){
       return "YES INDEED!"
     }
   }

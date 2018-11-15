@@ -7,7 +7,7 @@ return string.toLowerCase()
 }
 
 function logShout(string){
-  return console.log("HELLO!")
+  return console.log("HELLO")
 }
 
 function logWhisper(string){
